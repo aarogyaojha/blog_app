@@ -37,6 +37,7 @@ dependencies:
   fpdart: ^1.1.1
   supabase_flutter: ^2.8.4
   flutter_launcher_icons: ^0.14.3
+  flutter_bloc: ^9.0.0
 
 flutter_icons:
   android: true
